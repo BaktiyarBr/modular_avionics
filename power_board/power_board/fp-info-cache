@@ -1,4 +1,4 @@
-23173301813863667
+23180191867763798
 2MS1T1B1M2QES
 SW_2MS1T1B1M2QES
 
@@ -6,6 +6,13 @@ SW_2MS1T1B1M2QES
 0
 3
 3
+74hct245pw
+SOP65P640X110-20N
+
+
+0
+20
+20
 100SP1T6B11M1REH
 SW_100SP1T6B11M1REH
 
@@ -34,13 +41,27 @@ CSS2H-3920R-L200FE
 0
 2
 2
-503398-1892
-MOLEX_503398-1892
+ADM7172-3-3
+CP-8-21_ADI
 
-
+ADM7172ACPZ-3.3-R7 
 0
-14
-14
+9
+9
+ADM7172-3-3
+CP-8-21_ADI-L
+
+ADM7172ACPZ-3.3-R7 
+0
+9
+9
+ADM7172-3-3
+CP-8-21_ADI-M
+
+ADM7172ACPZ-3.3-R7 
+0
+9
+9
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -55719,13 +55740,6 @@ MODULE_E32-433T20S
 0
 22
 22
-EMIF06
-EMIF06MSD02N16
-<b>Micro QFN 3.5x1.2 16L</b><br>
-
-0
-17
-17
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
@@ -63566,6 +63580,13 @@ SO08
 0
 8
 8
+Lora
+XCVR_E22-900T30S
+
+
+0
+18
+18
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -92876,13 +92897,6 @@ screw terminal thread redcube thr power connector
 18
 1
 TestPoint
-123
-
-
-0
-0
-0
-TestPoint
 TestPoint_2Pads_Pitch2.54mm_Drill0.8mm
 Test point with 2 pins, pitch 2.54mm, drill diameter 0.8mm
 CONN DEV
@@ -94850,26 +94864,26 @@ Varistor VF
 2
 2
 footprints
-LGA9_BMP585_BOS
+21-0140L_T2055-4_MXM
 
-BMP585 
+MAX17504ATP+T 
 0
-9
-9
+21
+21
 footprints
-LGA9_BMP585_BOS-L
+21-0140L_T2055-4_MXM-L
 
-BMP585 
+MAX17504ATP+T 
 0
-9
-9
+21
+21
 footprints
-LGA9_BMP585_BOS-M
+21-0140L_T2055-4_MXM-M
 
-BMP585 
+MAX17504ATP+T 
 0
-9
-9
+21
+21
 lsm6dsv32x_module_footprint
 C_0603_1608Metric_Pad1.08x0.95mm_HandSolder
 Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
@@ -94933,3 +94947,17 @@ solder jumper open
 0
 2
 2
+sdCard
+SUNTECH_ST-TF-003A
+
+
+0
+13
+13
+smf05ct1g
+SOT65P210X110-6N
+
+
+0
+6
+6

@@ -48,7 +48,7 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.1
+          "min_clearance": 0.5
         }
       },
       "diff_pair_dimensions": [
@@ -56,11 +56,6 @@
           "gap": 0.0,
           "via_gap": 0.0,
           "width": 0.0
-        },
-        {
-          "gap": 0.2032,
-          "via_gap": 0.2032,
-          "width": 0.1582
         }
       ],
       "drc_exclusions": [],
@@ -120,21 +115,21 @@
       },
       "rules": {
         "max_error": 0.005,
-        "min_clearance": 0.09,
+        "min_clearance": 0.0,
         "min_connection": 0.0,
-        "min_copper_edge_clearance": 0.2,
-        "min_hole_clearance": 0.2,
-        "min_hole_to_hole": 0.2,
+        "min_copper_edge_clearance": 0.5,
+        "min_hole_clearance": 0.25,
+        "min_hole_to_hole": 0.25,
         "min_microvia_diameter": 0.2,
-        "min_microvia_drill": 0.15,
+        "min_microvia_drill": 0.1,
         "min_resolved_spokes": 2,
         "min_silk_clearance": 0.0,
         "min_text_height": 0.8,
         "min_text_thickness": 0.08,
-        "min_through_hole_diameter": 0.15,
-        "min_track_width": 0.09,
+        "min_through_hole_diameter": 0.3,
+        "min_track_width": 0.0,
         "min_via_annular_width": 0.1,
-        "min_via_diameter": 0.25,
+        "min_via_diameter": 0.5,
         "solder_mask_to_copper_clearance": 0.0,
         "use_height_for_length_calcs": true
       },
@@ -183,11 +178,10 @@
       ],
       "track_widths": [
         0.0,
-        0.1565,
-        0.1582,
         0.3,
         0.5,
-        1.0
+        1.0,
+        2.0
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -461,26 +455,26 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "brain_board.kicad_pro",
+    "filename": "power_board.kicad_pro",
     "version": 1
   },
   "net_settings": {
     "classes": [
       {
         "bus_width": 12,
-        "clearance": 0.09,
-        "diff_pair_gap": 0.09,
+        "clearance": 0.2,
+        "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
-        "diff_pair_width": 0.09,
+        "diff_pair_width": 0.2,
         "line_style": 0,
-        "microvia_diameter": 0.2,
+        "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "Default",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.09,
-        "via_diameter": 0.2,
-        "via_drill": 0.1,
+        "track_width": 0.2,
+        "via_diameter": 0.6,
+        "via_drill": 0.3,
         "wire_width": 6
       }
     ],
@@ -496,7 +490,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "../gerber/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
@@ -605,7 +599,7 @@
   },
   "sheets": [
     [
-      "895ef1d1-fd73-4318-9b05-0f79802473fc",
+      "e9871573-fc4e-468b-8d92-04dc2fd6be17",
       "Корневой лист"
     ]
   ],

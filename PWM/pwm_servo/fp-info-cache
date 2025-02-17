@@ -1,4 +1,4 @@
-23173301813863667
+23169824251674255
 2MS1T1B1M2QES
 SW_2MS1T1B1M2QES
 
@@ -34,13 +34,6 @@ CSS2H-3920R-L200FE
 0
 2
 2
-503398-1892
-MOLEX_503398-1892
-
-
-0
-14
-14
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -55719,13 +55712,6 @@ MODULE_E32-433T20S
 0
 22
 22
-EMIF06
-EMIF06MSD02N16
-<b>Micro QFN 3.5x1.2 16L</b><br>
-
-0
-17
-17
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters

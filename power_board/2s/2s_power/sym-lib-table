@@ -1,0 +1,9 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "2024-10-01_06-51-16")(type "KiCad")(uri "C:/Users/bnarb/OneDrive/Documents/ProjectsFolder/Spining_Drone/modular_board/lib/2024-10-01_06-51-16.kicad_sym")(options "")(descr ""))
+  (lib (name "SMF05CT1G")(type "KiCad")(uri "C:/Users/bnarb/OneDrive/Documents/ProjectsFolder/Spining_Drone/modular_board/lib/smf05ct1g/SMF05CT1G.kicad_sym")(options "")(descr ""))
+  (lib (name "ST-TF-003A")(type "KiCad")(uri "C:/Users/bnarb/OneDrive/Documents/ProjectsFolder/Spining_Drone/modular_board/lib/sdCard/ST-TF-003A.kicad_sym")(options "")(descr ""))
+  (lib (name "E22-900T30S")(type "KiCad")(uri "C:/Users/bnarb/OneDrive/Documents/ProjectsFolder/Spining_Drone/modular_board/lib/Lora/E22-900T30S.kicad_sym")(options "")(descr ""))
+  (lib (name "2024-10-02_07-19-02")(type "KiCad")(uri "C:/Users/bnarb/OneDrive/Documents/ProjectsFolder/Spining_Drone/modular_board/lib/Bmp585/2024-10-02_07-19-02.kicad_sym")(options "")(descr ""))
+  (lib (name "2024-10-08_15-46-04")(type "KiCad")(uri "C:/Users/bnarb/OneDrive/Documents/ProjectsFolder/Spining_Drone/modular_board/lib/ADM7172-3-3/2024-10-08_15-46-04.kicad_sym")(options "")(descr ""))
+)

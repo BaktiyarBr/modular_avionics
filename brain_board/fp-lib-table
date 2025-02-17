@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "503398-1892")(type "KiCad")(uri "C:/Users/bnarb/OneDrive/Documents/ProjectsFolder/erkebulan_modular_board/lib/503398-1892")(options "")(descr ""))
+  (lib (name "EMIF06")(type "KiCad")(uri "C:/Users/bnarb/OneDrive/Documents/ProjectsFolder/erkebulan_modular_board/lib/EMIF06")(options "")(descr ""))
+)
